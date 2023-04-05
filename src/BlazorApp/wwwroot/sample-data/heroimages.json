@@ -1,7 +1,7 @@
 [
   {
     "name": "home",
-    "src": "images/server-wall.jpg",
+    "src": "images/me.jpg",
     "alt": "woman holding laptop standing by server room with glass wall"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "name": "portfolio",
-    "src": "images/design-desk.jpeg",
+    "src": "https://developer.microsoft.com/en-us/advocates/media/profiles/gwyneth-pena.jpg",
     "alt": "desktop with books and laptop"
   }
 ]

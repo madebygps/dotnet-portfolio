@@ -1,12 +1,11 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "Hi, I'm Gwyn! Cloud Developer Advocate at Microsoft and YouTuber. I'm passionate about introducing people to the Cloud Computing and creating friendly and concise content. When I'm not doing Advocate things, I'm probably playing video games (Big fan of Days Gone, Far Cry, and Sleeping Dogs), hanging out with my family, friends, or eating mint chocolate chip ice cream.",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    "Cloud Computing",
+    "Serverless",
+    ".NET",
+    "Video Creation",
+    "Linux"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "I'm passionate about introducing people to the Cloud Computing and creating friendly and concise content."
 }
